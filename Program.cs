@@ -26,7 +26,7 @@ namespace Github
          * 6. Projekt verantwortlicher prüft Pull Request
          * 7. Annahme oder Rückgabe des Pull Request
          * 8. Branch wird in GitHub gemerged
-         * 9. Done!
+         * 9. Done! FICK DICH GIT, FICK DICH EINFACH
         */
     }
 }
